@@ -1,1 +1,6 @@
-
+streamlit
+llama-index
+EbookLib
+html2text
+llama-index-embeddings-huggingface
+llama-index-llms-ollama
